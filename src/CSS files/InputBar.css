@@ -1,0 +1,17 @@
+.input-bar-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 5px;
+}
+
+.input-bar-container input {
+  border-radius: 20px;
+  padding: 5px;
+  border: 1px solid black;
+  width: 300px;
+}
+
+.input-color{
+    color :white
+}

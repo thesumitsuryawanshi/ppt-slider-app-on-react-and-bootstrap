@@ -1,0 +1,13 @@
+.title-profile-container {
+  text-align: center;
+  padding: 20px;
+}
+
+.profile-images {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.input-bar-container{
+padding: 20px;}
